@@ -1,0 +1,58 @@
+2024-09-26 11:34:44.861834+08:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM [*]user \000a \000a WHERE (username = ?)"; expected "identifier"; SQL statement:
+SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM user 
+ 
+ WHERE (username = ?) [42001-232]
+2024-09-26 11:36:14.094533+08:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM [*]user \000a \000a WHERE (username = ?)"; expected "identifier"; SQL statement:
+SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM user 
+ 
+ WHERE (username = ?) [42001-232]
+2024-09-26 11:39:53.591658+08:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM [*]user \000a \000a WHERE (username = ?)"; expected "identifier"; SQL statement:
+SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM user 
+ 
+ WHERE (username = ?) [42001-232]
+2024-09-26 11:42:32.519877+08:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM [*]user \000a \000a WHERE (username = ?)"; expected "identifier"; SQL statement:
+SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM user 
+ 
+ WHERE (username = ?) [42001-232]
+2024-09-26 11:45:57.374380+08:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM [*]user \000a \000a WHERE (username = ?)"; expected "identifier"; SQL statement:
+SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM user 
+ 
+ WHERE (username = ?) [42001-232]
+2024-09-26 11:48:56.466384+08:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM [*]user \000a \000a WHERE (username = ?)"; expected "identifier"; SQL statement:
+SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM user 
+ 
+ WHERE (username = ?) [42001-232]
+2024-09-26 11:50:30.013148+08:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM [*]user \000a \000a WHERE (username = ?)"; expected "identifier"; SQL statement:
+SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM user 
+ 
+ WHERE (username = ?) [42001-232]
+2024-09-26 11:52:02.788856+08:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM [*]user \000a \000a WHERE (username = ?)"; expected "identifier"; SQL statement:
+SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM user 
+ 
+ WHERE (username = ?) [42001-232]
+2024-09-26 14:19:33.550642+08:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "NEWS_USER" not found (this database is empty); SQL statement:
+SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM news_user 
+ WHERE  is_deleted=0
+
+AND (username = ?) [42104-232]
+2024-09-26 14:23:03.905657+08:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "NEWS_USER" not found (this database is empty); SQL statement:
+SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM news_user 
+ WHERE  is_deleted=0
+
+AND (username = ?) [42104-232]
+2024-09-26 14:30:22.461554+08:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "NEWS_USER" not found (this database is empty); SQL statement:
+SELECT  uid,username,user_pwd,nick_name,version,is_deleted  FROM news_user 
+ WHERE  is_deleted=0
+
+AND (username = ?) [42104-232]
